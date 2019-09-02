@@ -32,7 +32,7 @@ var data = [
     "Palapittta (Indian Roller or Blue Jay) is the state bird of Telangana.",
     "Jammmi Chettu (Prosopis Cineraria) is the state tree of Telangana.",
     "Professor Jayashankar was the ideologue of Telangana Movement.",
-	"Sri Shailendra Kumar Joshi is the Honorable Chief Secretary of Telangana State."
+    "Sri Shailendra Kumar Joshi is the Honorable Chief Secretary of Telangana State."
 ];
 
 //=========================================================================================================================================
